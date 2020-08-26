@@ -1,2 +1,2 @@
-# Bouncing-Ball-
-Using visual studio, matter.js and learning about physics engine.
+# staticSquare
+A static square made using Matter.js physics engine
